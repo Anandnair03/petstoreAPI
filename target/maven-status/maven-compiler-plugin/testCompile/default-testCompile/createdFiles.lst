@@ -1,0 +1,7 @@
+petstoreAPI/api/test/UserTestWithSingleData.class
+petstoreAPI/api/test/APItests.class
+petstoreAPI/api/ultilities/XLUtility.class
+petstoreAPI/api/ultilities/ExtentReportManager.class
+petstoreAPI/api/ultilities/DataProviders.class
+petstoreAPI/api/Endpoints/UserEndpoints.class
+petstoreAPI/api/payload/User.class
