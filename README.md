@@ -3,10 +3,13 @@
 This is a POC for API automation for
 https://petstore.swagger.io/
 
-To Run the Test you need Java 21 or above and maven installed
-Move to the project directory to run test.
+Requirements:
 
-Test commands :
-mvn test
+- [x] Java 21
+- [x] Maven
 
-Reports can be found under /reports forder
+Test command to run from the project directory:
+
+    mvn test
+
+Reports can be found under ==/reports ==folder.
